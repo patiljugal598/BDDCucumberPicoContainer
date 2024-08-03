@@ -1,5 +1,4 @@
 Feature: Data Table
-
   Scenario: Verify data tables
     Given my credentials
       | test | test123 |
